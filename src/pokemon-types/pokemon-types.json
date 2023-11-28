@@ -1,0 +1,9 @@
+{
+  "pokemon-types": [
+    {"id": 1, "type": "Fuego"},
+    {"id": 2, "type": "Agua"},
+    {"id": 3, "type": "Planta"},
+    {"id": 4, "type": "Volador"},
+    {"id": 5, "type": "Eléctrico"}
+  ]
+}

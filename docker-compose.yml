@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+  pokemons:
+    build:
+      context: ./src/pokemons
+    ports:
+      - "4001:3001"
+    networks:
+      - micro-app
+
+  pokemon-types:
+    build:
+      context: ./src/pokemon-types
+    ports:
+      - "4002:3002"
+    networks:
+      - micro-app
+
+  trainers:
+    build:
+      context: ./src/trainers
+    ports:
+      - "4003:3003"
+    networks:
+      - micro-app
+
+  api-gateway:
+    build:
+      context: ./src/api-gateway
+    ports:
+      - "4004:3000"
+    networks:
+      - micro-app
+
+  legendary-pokemon:
+    build:
+      context: ./src/legendary-pokemon
+    ports:
+      - "4005:3004"
+    networks:
+      - micro-app
+
+networks:
+  micro-app:

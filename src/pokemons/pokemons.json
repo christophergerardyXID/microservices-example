@@ -1,0 +1,239 @@
+{
+  "pokemons": [
+    {
+      "name": "bulbasaur",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "ivysaur",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "venusaur",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "charmander",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "charmeleon",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "charizard",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "squirtle",
+      "encounter_method": "water",
+      "location": "kanto"
+    },
+    {
+      "name": "wartortle",
+      "encounter_method": "water",
+      "location": "kanto"
+    },
+    {
+      "name": "blastoise",
+      "encounter_method": "water",
+      "location": "kanto"
+    },
+    {
+      "name": "caterpie",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "metapod",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "butterfree",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "weedle",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "kakuna",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "beedrill",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "pidgey",
+      "encounter_method": "sky",
+      "location": "kanto"
+    },
+    {
+      "name": "pidgeotto",
+      "encounter_method": "sky",
+      "location": "kanto"
+    },
+    {
+      "name": "pidgeot",
+      "encounter_method": "sky",
+      "location": "kanto"
+    },
+    {
+      "name": "rattata",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "raticate",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "spearow",
+      "encounter_method": "sky",
+      "location": "kanto"
+    },
+    {
+      "name": "fearow",
+      "encounter_method": "sky",
+      "location": "kanto"
+    },
+    {
+      "name": "ekans",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "arbok",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "pikachu",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "raichu",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "sandshrew",
+      "encounter_method": "ground",
+      "location": "kanto"
+    },
+    {
+      "name": "sandslash",
+      "encounter_method": "ground",
+      "location": "kanto"
+    },
+    {
+      "name": "nidoran♀",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "nidorina",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "nidoqueen",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "nidoran♂",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "nidorino",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "nidoking",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "clefairy",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "clefable",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "vulpix",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "ninetales",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "jigglypuff",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "wigglytuff",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "zubat",
+      "encounter_method": "cave",
+      "location": "kanto"
+    },
+    {
+      "name": "golbat",
+      "encounter_method": "cave",
+      "location": "kanto"
+    },
+    {
+      "name": "oddish",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "gloom",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "vileplume",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "paras",
+      "encounter_method": "grass",
+      "location": "kanto"
+    },
+    {
+      "name": "parasect",
+      "encounter_method": "grass",
+      "location": "kanto"
+    }
+  ]
+}
